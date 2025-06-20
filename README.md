@@ -8,3 +8,6 @@ Este repositorio contiene archivos de configuración utilizados en un entorno de
 - `telegram.sh`: Script para notificaciones por Telegram.
 - `gmail.sh`: Script para notificaciones por correo.
 - `msmtprc`: Configuración SMTP para Gmail.
+- `test log`: Archivo de pruebas de eventos manuales.
+- `ossec.log`: Log principal de Wazuh.
+- `alerts.json`: Registro de alertas.
