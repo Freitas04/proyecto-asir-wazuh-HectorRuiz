@@ -1,0 +1,7 @@
+<group name="local,">
+  <rule id="100100" level="10">
+    <decoded_as>json</decoded_as>
+    <description>Mensaje personalizado de alerta crítica.</description>
+    <options>no_full_log</options>
+  </rule>
+</group>
